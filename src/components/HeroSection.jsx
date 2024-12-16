@@ -40,7 +40,7 @@ const HeroSection = () => (
                                     objectFit: 'cover', // Ensures the video covers the area without stretching
                                 }}
                             >
-                                <source src="/videos/intro.mp4" type="video/mp4" /> {/* Replace with your video URL */}
+                                <source src="videos/intro.mp4" type="video/mp4" /> {/* Replace with your video URL */}
                                 Your browser does not support the video tag.
                             </video>
                         </Carousel.Item>
@@ -56,7 +56,7 @@ const HeroSection = () => (
                                     objectFit: 'cover',
                                 }}
                             >
-                                <source src="/videos/intro2.mp4" type="video/mp4" /> {/* Replace with your second video URL */}
+                                <source src="videos/intro2.mp4" type="video/mp4" /> {/* Replace with your second video URL */}
                                 Your browser does not support the video tag.
                             </video>
                         </Carousel.Item>
