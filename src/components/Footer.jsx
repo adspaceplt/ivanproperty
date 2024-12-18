@@ -30,7 +30,7 @@ const Footer = () => (
 
         {/* Right Column */}
         <div className="col-md-4 text-center fw-bold">
-          <p className="text-muted mb-2">Contac Us</p>
+          <p className="text-muted mb-2">Contact Us</p>
           <div>
             <a href="https://www.facebook.com/share/15eAq8Xhqd/?mibextid=LQQJ4d" className="text-primary mx-2" target="_blank" rel="noopener noreferrer">
               <i className="bi bi-facebook fs-4"></i>
@@ -57,7 +57,7 @@ const Footer = () => (
       </div>
 
       <div className='row mt-5 text-center'>
-        <p className="text-muted mb-2">© 2024 Property Co. All Rights Reserved.</p>
+        <p className="text-muted mb-2">© 2025 Property Co. All Rights Reserved.</p>
       </div>
     </div>
   </footer>
